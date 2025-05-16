@@ -1,0 +1,173 @@
+<!DOCTYPE html><html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KI-Chatbots für Unternehmen in Köln</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 30px;
+    }
+    header h1 {
+      color: #008080;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    .section h2 {
+      color: #444;
+    }
+    .cta {
+      background: #008080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      border-radius: 8px;
+    }
+    .cta a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      color: #888;
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Moderne KI-Chatbots für Kölner Betriebe</h1>
+      <p>Von Luca Fiedler – Einfach. Persönlich. Effizient.</p>
+    </header><div class="section">
+  <h2>Was ich anbiete</h2>
+  <p>Ich entwickle individuelle KI-Chatbots ab 100 €, die auf Ihrer Website, bei WhatsApp oder Instagram automatisch mit Kunden kommunizieren – 24/7.</p>
+  <ul>
+    <li>Friseurtermine automatisch verwalten</li>
+    <li>Reservierungen im Restaurant entgegennehmen</li>
+    <li>Fragen zu Öffnungszeiten, Preisen und Angeboten beantworten</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Demo ansehen</h2>
+  <p>Sie möchten sehen, wie das aussieht? Kontaktieren Sie mich für eine kostenlose Beispiel-Demo:</p>
+  <div class="cta">
+    <p>E-Mail: <a href="mailto:kontakt.lucafiedler@gmail.com">kontakt.lucafiedler@gmail.com</a></p>
+    <p>Oder schreiben Sie mir direkt über WhatsApp.</p>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Warum ein Chatbot?</h2>
+  <p>Ein Chatbot spart Zeit, sorgt für zufriedene Kunden und gibt Ihnen den Freiraum, sich auf das Wesentliche zu konzentrieren: Ihren Betrieb.</p>
+</div>
+
+<footer>
+  &copy; 2025 Luca Fiedler – KI-Chatbots aus Köln
+</footer>
+
+  </div>
+</body>
+</html><!DOCTYPE html><html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KI-Chatbots für Unternehmen in Köln</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 30px;
+    }
+    header h1 {
+      color: #008080;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    .section h2 {
+      color: #444;
+    }
+    .cta {
+      background: #008080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      border-radius: 8px;
+    }
+    .cta a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      color: #888;
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Moderne KI-Chatbots für Kölner Betriebe</h1>
+      <p>Von Luca Fiedler – Einfach. Persönlich. Effizient.</p>
+    </header><div class="section">
+  <h2>Was ich anbiete</h2>
+  <p>Ich entwickle individuelle KI-Chatbots ab 100 €, die auf Ihrer Website, bei WhatsApp oder Instagram automatisch mit Kunden kommunizieren – 24/7.</p>
+  <ul>
+    <li>Friseurtermine automatisch verwalten</li>
+    <li>Reservierungen im Restaurant entgegennehmen</li>
+    <li>Fragen zu Öffnungszeiten, Preisen und Angeboten beantworten</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Demo ansehen</h2>
+  <p>Sie möchten sehen, wie das aussieht? Kontaktieren Sie mich für eine kostenlose Beispiel-Demo:</p>
+  <div class="cta">
+    <p>E-Mail: <a href="mailto:kontakt.lucafiedler@gmail.com">kontakt.lucafiedler@gmail.com</a></p>
+    <p>Oder schreiben Sie mir direkt über WhatsApp.</p>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Warum ein Chatbot?</h2>
+  <p>Ein Chatbot spart Zeit, sorgt für zufriedene Kunden und gibt Ihnen den Freiraum, sich auf das Wesentliche zu konzentrieren: Ihren Betrieb.</p>
+</div>
+
+<footer>
+  &copy; 2025 Luca Fiedler – KI-Chatbots aus Köln
+</footer>
+
+  </div>
+</body>
+</html>
